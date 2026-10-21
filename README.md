@@ -11,7 +11,7 @@ local playerGui = player:WaitForChild("PlayerGui")
 
 -- IDs dos assets
 local OBSERVER_IMAGE = "rbxassetid://134660978043984"
-local BLACK_IMAGE = "rbxassetid://131457731811137"
+local BLACK_IMAGE = "rbxassetid://71299426436739"
 local MOVEMENT_SOUND = "rbxassetid://138798991855843"
 local SCREAM_SOUND = "rbxassetid://138587239935890"
 
